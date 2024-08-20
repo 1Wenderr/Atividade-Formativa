@@ -1,0 +1,59 @@
+body {
+    margin: 0px 120px 0px 120px;
+    background-image: linear-gradient(blue, red, green);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.corpo {
+    background-color: white;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.titulo {
+    margin-top: 0;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 8px;
+
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 14.3cm;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.descricao {
+    font-size: small;
+}
+
+.pokemon {
+    align-items: center;
+
+}
+
+.estatistica {
+    text-align: center;
+    padding-top: 0cm;
+}
+
+.secao {
+    text-align: center;
+}
